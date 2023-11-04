@@ -38,6 +38,7 @@ router.get('/:id', async (req, res) => {
 
 });
 
+/*
 router.post('/', async (req, res) => {
   // create a new tag
   try {
@@ -48,8 +49,8 @@ router.post('/', async (req, res) => {
   }
 
 });
+*/
 
-/*
 router.post('/', (req, res) => {
   Tag.create(req.body)
     .then ((tag) => {
@@ -71,9 +72,9 @@ router.post('/', (req, res) => {
       res.status(400).json(err);
     });
 });
-*/
 
-/*
+
+
 router.put('/:id', (req, res) => {
   // update a tag's name by its `id` value
   Tag.update(req.body, {
@@ -118,9 +119,9 @@ router.put('/:id', (req, res) => {
       res.status(400).json(err);
     });
 });
-*/
 
 
+/*
 router.put('/:id', async (req, res) => {
   // update a tag's name by its `id` value
   try {
@@ -150,7 +151,7 @@ router.put('/:id', async (req, res) => {
   }
 
 });
-
+*/
 
 
 
