@@ -2,14 +2,15 @@
   * Author: Kyosook Shin
   * Author's Email: kyosook.shin@gmail.com  
   * GitHub: https://github.com/alla0810/e-commerce
-  * Walkthrough Video: https://drive.google.com/file/d/1wYZBMuzOfqjXdAPhoa_-UlDJODOfpkUC/view
+  * Walkthrough Video: https://drive.google.com/file/d/1N0QrQbP3RqnyN9QxMiiXK89BWkpQlmIG/view
   
   * screenshot  
 
-<img src='./images/screen1.png' width="500">  
+<img src='./images/screen1.png' width="800">  
 <img src='./images/screen2.png' width="800">
-<img src='./images/screen3.png' width="400">  
-
+<img src='./images/screen3.png' width="800">  
+<img src='./images/screen4.png' width="800">  
+<img src='./images/screen5.png' width="800">  
 
 ## Source Code References
   This project has used some reference codes from the following sites
