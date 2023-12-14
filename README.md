@@ -125,6 +125,11 @@ After downloading from GitHub, you can run this program on your local machine by
 5. Run `nodemon server.js` to run backend server on your local machine.
 6. From Insomnia, send Restful API queries.
 
+## Technologies used
+1. Express.js (https://expressjs.com/)
+2. MySQL2 (https://www.npmjs.com/package/mysql2)
+3. Sequalize (https://www.npmjs.com/package/sequelize)
+4. dotenv package (https://www.npmjs.com/package/dotenv) 
 
 ## Source Code References
   This project has used some reference codes from the following sites
